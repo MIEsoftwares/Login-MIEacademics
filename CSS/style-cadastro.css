@@ -1,0 +1,50 @@
+*{
+    color: white;
+}
+.h3-conta{
+    margin: 0;
+    margin-bottom: 2vh;
+}
+
+.form-content{
+    padding: 0;
+}
+
+.data-tele{
+    margin-right: 2vw;   
+    float: left;
+    width: calc(50% - 2vw);
+}
+
+.opt{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    float: right;
+    width: 50%;
+}
+
+.input-text{
+    margin-bottom: 2vh;
+}
+
+.input-submit{
+    color: black;
+}
+
+.criar-conta{
+    padding: 0;
+    margin-top: 2vh;
+}
+
+#floatingSelect{
+    padding: 0;
+    font-size: 0.8em;
+    min-height: 3vh;
+    height: auto;
+    color: black;
+}
+
+#floatingSelect option{
+    color: black;
+}
